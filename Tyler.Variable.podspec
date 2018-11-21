@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
 	s.name = "Tyler.Variable"
 	s.version = "0.0.1"
 	s.swift_version = "4.2"
-	s.summary = "Tyler Tag"
+	s.summary = "Tyler Variable"
 	s.homepage = "https://github.com/IgorMuzyka/Tyler.Variable"
 	s.source = { :git => "https://github.com/IgorMuzyka/Tyler.Variable.git", :tag => s.version.to_s }
 	s.license = { :type => "MIT", :file => "LICENSE" }
