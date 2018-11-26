@@ -1,3 +1,4 @@
-# variable
+# Variable
 
-A description of this package.
+This repo provides a **Variable** struct and ways to resolve it for the [Tyler](https://github.com/IgorMuzyka/Tyler) famework.
+
